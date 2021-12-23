@@ -1,2 +1,2 @@
-# Animation
-Animation in Python with spritesheets
+# PyLuu of CnC(future Pit)
+
